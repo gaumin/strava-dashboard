@@ -9,7 +9,7 @@ Ploty Express support interactive charts, so it's a great option for. Here is so
 ![Distance by Year ](https://github.com/gaumin/strava-dashboard/blob/main/images/1-distance-by-year.jpg "Total distance by Year")
 
 
-![Distance by Month and Year ]([https://github.com/gaumin/strava-dashboard/blob/main/images/1-distance-by-year.jpg](https://github.com/gaumin/strava-dashboard/blob/main/images/2-distance-by-monh.jpg) "Total distance by Month and Year")
+![Distance by Month and Year ](https://github.com/gaumin/strava-dashboard/blob/main/images/2-distance-by-monh.jpg) "Total distance by Month and Year")
 
 
 
