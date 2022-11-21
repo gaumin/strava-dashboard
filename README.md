@@ -1,5 +1,5 @@
-# strava-dashboard
-A simple dashboard of sport activities logged on Strava app using Pandas and Ploty Express. 
+# Strava Dashboard
+A simple dashboard of sport activities logged on Strava app using Pandas and Ploty Express. I built this dashboard to analyze my cycling activities, but it can be easily adapted to other type of sport activities by changing type of sport.
 
 NOTE: Github does not support rich view of Jupyter notebooks, therefore charts of ploty aren't displayed here. You can see this plots on my kaggle notebook: 
 https://www.kaggle.com/code/promind/strava-dashboard/
