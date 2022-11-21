@@ -6,10 +6,19 @@ https://www.kaggle.com/code/promind/strava-dashboard/
 
 Ploty Express support interactive charts, so it's a great option for. Here is some examples of charts by Ploty Express:
 
-![Distance by Year ](https://github.com/gaumin/strava-dashboard/blob/main/images/1-distance-by-year.jpg "Total distance by Year")
+![Distance by Year](https://github.com/gaumin/strava-dashboard/blob/main/images/1-distance-by-year.jpg)
+
+![Distance by Month and Year](https://github.com/gaumin/strava-dashboard/blob/main/images/2-distance-by-monh.jpg)
+
+![Distribution of distance](https://github.com/gaumin/strava-dashboard/blob/main/images/3-distribution-of-distance.jpg)
+
+![Distribution of distance by Year](https://github.com/gaumin/strava-dashboard/blob/main/images/4-distribution-of-distance-by-year.jpg)
+
+![Distribution of avarage heartrate](https://github.com/gaumin/strava-dashboard/blob/main/images/5-distribution-of-avg-hr.jpg)
 
 
-![Distance by Month and Year ](https://github.com/gaumin/strava-dashboard/blob/main/images/2-distance-by-monh.jpg) "Total distance by Month and Year")
+
+
 
 
 
